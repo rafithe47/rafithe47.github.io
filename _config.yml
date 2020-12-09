@@ -53,7 +53,29 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Developing Software</mark> and <mark>Eating Pizza</mark>
 
+
+
+
+
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: LEADING UNIVERSITY
+        link: www.lus.ac.bd
+        caption: 2009 - 2013
+        sub_title: B. Sc. Computer Science & Engineering
+        quote: >
+          Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh.
+        description: | # this will include new lines to allow paragraphs
+           During my time at LU, I learned most of the key skills that have I have taken through my career such as Programming, teamwork, and working to tight deadlines. I thoroughly enjoyed my university life and built some lifelong relationships. 
+           
+          I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and Vice-President.
+
+          I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university.
+
+
   - title: Research Background # Title for the section
     layout: text # Type of content section (list/text)
     content: |
@@ -110,7 +132,7 @@ content:
 
       - layout: left
         title: SOUTHEAST UNIVERSITY
-        link: www.seu.ac.bd
+        link: https://seu.edu.bd/
         link_text: Southeast University, Bangladesh
         sub_title: Programmer
         caption: April 2015 - August 2017
@@ -137,8 +159,8 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Developed Annual "Local Health Bulletin - 2015" System for Govt. Bangladesh under Health Ministry as a vendor company
-          - Developed "Photo Archiver System" for Govt. Bangladesh under the Ministry Of Health and Family Welfare as a vendor company Using CI, Ajax, MySql, jQuery, JSON, etc.
+          - Developed Annual "Local Health Bulletin - 2015" System for Govt. Bangladesh under Health Ministry
+          - Developed "Photo Archiver System" for Govt. Bangladesh under the Ministry Of Health and Family Welfare using CI, Ajax, MySql, jQuery, JSON, etc.
           - Used Bootstrap Framework for cross-platform compatibility
 
       - layout: left
@@ -156,35 +178,29 @@ content:
           - Involved in Back End coding to manage dynamic pages using the CodeIgnitor framework
           - According to client requirements redesigned PHP Scripts, MySQL queries, HTML, CSS.
 
+  - title: Technical Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **Languages:** Working in a research-based organization for the last 3 years
+      - **Databases:** Data Science, ML, Software Engineering, AI, Bioinformatics, Cyber Security
+      - **Frameworks/Libraries/Others:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, Ajax, jQuery, Bootstrap3, Docker, Maven, Wordpress, Git
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
