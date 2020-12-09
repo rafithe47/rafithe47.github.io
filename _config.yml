@@ -6,10 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ashraful Islam
+name: Ashraful Islam Rafi
 title: Software Engineer
 email: ashrafulrafi@gmail.com
-Mobile: (88) 01722293046
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -62,14 +61,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: LEADING UNIVERSITY, Bangladesh
-        # link: www.lus.ac.bd
+        title: LEADING UNIVERSITY
+        link: www.lus.ac.bd
+        link_text: Leading University, Sylhet
+        caption: **CGPA:** 3.30 out of 4.00
         caption: 2009 - 2013
         sub_title: B. Sc. Computer Science and Engineering
         quote: >
           Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh.
         description: | # this will include new lines to allow paragraphs
-          During my time at LU, I learned most of the key skills that have I have taken through my career such as Programming, teamwork, and working to tight deadlines. I thoroughly enjoyed my university life and built some lifelong relationships. 
+          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. I thoroughly enjoyed my university life and built some lifelong relationships. 
 
           I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*.
 
@@ -202,8 +203,8 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: ture
+references_title: Ashraful Islam Rafi,  Mobile: (88) 01722293046
 
 # Build settings
 remote_theme: sproogen/resume-theme
