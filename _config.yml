@@ -73,6 +73,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines.  
 
+          I worked as a voluntary **ACM instructor while doing undergrad** at my university.
+ 
+
           I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*.
 
           I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university.
@@ -91,7 +94,7 @@ content:
     content: |
       - IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011.
       - Solved over 400 problems from different online judges.
-      - Worked as a voluntary **ACM instructor while doing undergrad** in my university
+      
 
 
   # - title: Projects # Title for the section
