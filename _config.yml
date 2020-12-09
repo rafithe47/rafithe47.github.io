@@ -63,7 +63,7 @@ content:
     content:
       - layout: left
         title: LEADING UNIVERSITY
-        link: www.lus.ac.bd
+        # link: www.lus.ac.bd
         caption: 2009 - 2013
         sub_title: B. Sc. Computer Science & Engineering
         quote: >
