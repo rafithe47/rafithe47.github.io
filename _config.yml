@@ -60,7 +60,7 @@ content:
       - <mark>Research Experience:</mark> Working in a research-based organization for the last 3 years
       - <mark>Research interests:</mark> Data Science, ML, Software Engineering, AI, Bioinformatics, Cyber Security
 
-    - title: Programming Background # Title for the section
+  - title: Programming Background # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       - IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011.
