@@ -109,22 +109,52 @@ content:
           - Implemented TIG(Telegraf, InfluxDB & Grafana) Stack to monitor the whole infrastructure
 
       - layout: left
-        title: PIPILIKA - BANGLA SEARCH ENGINE
-        link: www.pipilika.com
-        link_text: Search Engine Pipilika 
-        sub_title: Software Engineer
-        caption: August 2017 - Present
+        title: SOUTHEAST UNIVERSITY
+        link: www.seu.ac.bd
+        link_text: Southeast University, Bangladesh
+        sub_title: Programmer
+        caption: April 2015 - August 2017
         
         # quote: >
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Developing, fixing, and deploying custom Crawler and Parser for a variety of search services using Java
-          - Developing and Implementing REST API using Spring Boot and Java Servlet API
-          - Designing and implementing dynamic schema Using Apache Solr to index the crawled and parsed data
-          - Modifying existing software services written in Java to correct functional errors and improve overall performance
-          - Using rancher to manage all the dockerized service containers efficiently
-          - Implemented TIG(Telegraf, InfluxDB & Grafana) Stack to monitor the whole infrastructure
+          - Modify, correct, and improve the overall performance of the University Management System(UMS) software
+          - Developed “Online Admission System” using PHP, MySql, jQuery, Ajax, Bootstrap3
+          - Coordinated and Monitored vendor company on developing HRMS Software as per the SRS
+          - Developed SMS Module which automatically sends last semester's results to parents
+          - Wrote & Modified complicated MySql Queries to enhance project performance
+          - Establish, build, and manage relationships with corporate partners.
+
+      - layout: left
+        title: DURBAR SOFTWARE
+        link: https://durbar.co/
+        link_text: Durbar Software, Bangladesh
+        sub_title: Senior Software Engineer
+        caption: Novermber 2014 - April 2015
+        
+        # quote: >
+        #   Bangladesh's first ever search engine 
+
+        description: | # this will include new lines to allow paragraphs
+          - Developed Annual "Local Health Bulletin - 2015" System for Govt. Bangladesh under Health Ministry as a vendor company
+          - Developed "Photo Archiver System" for Govt. Bangladesh under the Ministry Of Health and Family Welfare as a vendor company Using CI, Ajax, MySql, jQuery, JSON, etc.
+          - Used Bootstrap Framework for cross-platform compatibility
+
+      - layout: left
+        title: IT LAB SOLUTIONS LTD.
+        link: https://www.itlabsolutions.com/
+        link_text: IT Lab Solutions Ltd.
+        sub_title: Software Developer(While Doing Undergraduate)
+        caption: February 2012 - January 2014
+        
+        # quote: >
+        #   Bangladesh's first ever search engine 
+
+        description: | # this will include new lines to allow paragraphs
+          - Designed and Developed Customized Web-Based Software for different Businesses
+          - Involved in Back End coding to manage dynamic pages using the CodeIgnitor framework
+          - According to client requirements redesigned PHP Scripts, MySQL queries, HTML, CSS.
 
 
   - title: Education # Title for the section
