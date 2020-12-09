@@ -190,7 +190,7 @@ content:
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Languages:** Working in a research-based organization for the last 3 years
+      - **Languages:** Java, PHP, C, C++, JavaScript
       - **Databases:** Data Science, ML, Software Engineering, AI, Bioinformatics, Cyber Security
       - **Frameworks/Libraries/Others:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, Ajax, jQuery, Bootstrap3, Docker, Maven, Wordpress, Git
 
