@@ -104,6 +104,9 @@ content:
           - Developing, fixing, and deploying custom Crawler and Parser for a variety of search services using Java
           - Developing and Implementing REST API using Spring Boot and Java Servlet API
           - Designing and implementing dynamic schema Using Apache Solr to index the crawled and parsed data
+          - Regularly modifying existing software services written in Java to correct functional errors and improve overall performance
+          - Using rancher to manage all the dockerized service containers efficiently
+          - Implemented TIG(Telegraf, InfluxDB & Grafana) Stack on one of Pipilika's server machines to monitor the whole infrastructure
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
