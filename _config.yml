@@ -50,6 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rafi and I'm a result-oriented software engineering professional with 5+ years of experience which includes 4+ years of hands-on Web Development and 1+ year of project management. I have worked at a number of companies gaining teamwork and leadership skills as well.
 
+  
+
   I am most skilled in: <mark>Developing Software</mark> and <mark>Eating Pizza</mark>
 
 
@@ -64,7 +66,7 @@ content:
         title: LEADING UNIVERSITY
         link: www.lus.ac.bd
         # link_text: Leading University, Sylhet
-        caption: 2009 - 2013 <br/> CGPA - 3.30 out of 4.00
+        caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
         sub_title: B. Sc. Computer Science and Engineering
         quote: >
           Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh.
@@ -135,7 +137,7 @@ content:
       - layout: left
         title: SOUTHEAST UNIVERSITY
         link: https://seu.edu.bd
-        link_text: Southeast University, Bangladesh
+        # link_text: Southeast University, Bangladesh
         sub_title: Programmer
         caption: April 2015 - August 2017
         
