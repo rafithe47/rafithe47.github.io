@@ -57,15 +57,15 @@ content:
   - title: Research Background # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - <mark>Research Experience:</mark> Working in a research-based organization for the last 3 years
-      - <mark>Research interests:</mark> Data Science, ML, Software Engineering, AI, Bioinformatics, Cyber Security
+      - **Research Experience:** Working in a research-based organization for the last 3 years
+      - **Research interests:** Data Science, ML, Software Engineering, AI, Bioinformatics, Cyber Security
 
   - title: Programming Background # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       - IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011.
       - Solved over 400 problems from different online judges.
-      - Worked as a voluntary <mark> ACM instructor while doing undergrad</mark> in my university
+      - Worked as a voluntary **ACM instructor while doing undergrad** in my university
 
 
   # - title: Projects # Title for the section
@@ -92,15 +92,15 @@ content:
     content:
       - layout: left
         title: PIPILIKA - BANGLA SEARCH ENGINE
-        link: pipilika.com
+        link: www.pipilika.com
         link_text: Search Engine Pipilika 
         sub_title: Software Engineer
         caption: August 2017 - Present
         
-        quote: >
-          Bangladesh's first ever search engine 
+        # quote: >
+        #   Bangladesh's first ever search engine 
 
-        content: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           - Developing, fixing, and deploying custom Crawler and Parser for a variety of search services using Java
           - Developing and Implementing REST API using Spring Boot and Java Servlet API
           - Designing and implementing dynamic schema Using Apache Solr to index the crawled and parsed data
