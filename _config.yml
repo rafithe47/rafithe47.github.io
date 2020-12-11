@@ -84,7 +84,7 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - **Research Experience:** Working in a research-based organization for the last 3 years
-      - **Research interests:** Data Science, ML, Software Engineering, AI, Bioinformatics, Cyber Security
+      - **Research interests:** Data Science, ML, Software Engineering, Programming Languages, AI, Bioinformatics, Cyber Security
 
 
 
@@ -126,8 +126,8 @@ content:
         sub_title: Software Engineer
         caption: August 2017 - Present
         
-        # quote: >
-        #   Bangladesh's first ever search engine 
+        quote: >
+          Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
 
         description: | # this will include new lines to allow paragraphs
           - Developing, fixing, and deploying custom Crawler and Parser for a variety of search services using Java
@@ -192,12 +192,12 @@ content:
       - **Databases:** MySQL, Apache Solr, MongoDB
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, jQuery, Bootstrap3
       - **Web Technologies:** AJAX, HTML5, CSS3, JSON
-      - **Web Servers:** Lampp, Xampp, Apache, Docker
+      - **Web Servers:** Lampp, Xampp, Apache
       - **Version Control:** Git
       - **CMS:** WordPress
       - **Software Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
       - **OS Environments:** OS X, Linux, Windows
-      - **Others:** Maven, Algorithms, Database Design, System Analysis
+      - **Others:** Maven, Docker, Rancher, Algorithms, Database Design, System Analysis
 
   
 
