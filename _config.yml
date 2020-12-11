@@ -48,7 +48,7 @@ instagram_username: rafithe47
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rafi and I'm a result-oriented software engineering professional with 5+ years of experience which includes 4+ years of hands-on Software Development and 1+ year of Project Management. I have worked at a number of companies gaining teamwork and leadership skills as well.
+  Hi, my name's Rafi and I'm a result-oriented software engineering professional with 6+ years of experience which includes 4+ years of hands-on Software Development and 2+ year of Project Management. I have worked at a number of companies gaining teamwork and leadership skills as well.
 
 
   <br/>
@@ -96,7 +96,6 @@ content:
       - Participated regularly in Online Programming Contests hosted by various online judges
 
       
-
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -189,9 +188,16 @@ content:
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Languages:** Java, PHP, C, C++, JavaScript
-      - **Databases:** Apache Solr, MySql, MongoDB
-      - **Frameworks/Libraries/Others:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, Ajax, jQuery, Bootstrap3, Docker, Maven, Wordpress, Git
+      - **Programming Languages:** Java, PHP, C, C++, JavaScript
+      - **Databases:** MySQL, Apache Solr, MongoDB
+      - **Frameworks/Libraries:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, jQuery, Bootstrap3
+      - **Web Technologies:** AJAX, HTML5, CSS3, JSON
+      - **Web Servers:** Lampp, Xampp, Apache, Docker
+      - **Version Control:** Git
+      - **CMS:** WordPress
+      - **Software Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
+      - **OS Environments:** OS X, Linux, Windows
+      - **Others:** Maven, Algorithms, Database Design, System Analysis
 
   
 
