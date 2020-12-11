@@ -126,8 +126,8 @@ content:
         sub_title: Software Engineer
         caption: August 2017 - Present
         
-        quote: >
-          Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
+        # quote: >
+        #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
 
         description: | # this will include new lines to allow paragraphs
           - Developing, fixing, and deploying custom Crawler and Parser for a variety of search services using Java
