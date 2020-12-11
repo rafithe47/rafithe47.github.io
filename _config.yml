@@ -69,16 +69,15 @@ content:
         caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
         sub_title: B. Sc. Computer Science and Engineering
         quote: >
-          Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh.
+          Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         description: | # this will include new lines to allow paragraphs
-          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines.  
+          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines 
 
-          I worked as a voluntary **ACM instructor while doing undergrad** at my university.
+          I worked as a voluntary **ACM instructor while doing undergrad** at my university
  
+          I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*
 
-          I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*.
-
-          I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university.
+          I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university
 
 
   - title: Research Background # Title for the section
@@ -92,9 +91,9 @@ content:
   - title: Programming Background # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Programming Contest Participation:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011.
-      - Solved over 400 problems from different online judges.
-      - Participated regularly in Online Programming Contests hosted by various online judges.
+      - **Programming Contest Participation:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
+      - Solved over 400 problems from different online judges
+      - Participated regularly in Online Programming Contests hosted by various online judges
 
       
 
@@ -155,7 +154,7 @@ content:
           - Coordinated and Monitored vendor company on developing HRMS Software as per the SRS
           - Developed SMS Module which automatically sends last semester's results to parents
           - Wrote & Modified complicated MySql Queries to enhance project performance
-          - Establish, build, and manage relationships with corporate partners.
+          - Establish, build, and manage relationships with corporate partners
 
       - layout: left
         title: DURBAR SOFTWARE
@@ -185,13 +184,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Designed and Developed Customized Web-Based Software for different Businesses
           - Involved in Back End coding to manage dynamic pages using the CodeIgnitor framework
-          - According to client requirements redesigned PHP Scripts, MySQL queries, HTML, CSS.
+          - According to client requirements redesigned PHP Scripts, MySQL queries, HTML, CSS
 
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       - **Languages:** Java, PHP, C, C++, JavaScript
-      - **Databases:** Data Science, ML, Software Engineering, AI, Bioinformatics, Cyber Security
+      - **Databases:** Apache Solr, MySql, MongoDB
       - **Frameworks/Libraries/Others:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, Ajax, jQuery, Bootstrap3, Docker, Maven, Wordpress, Git
 
   
