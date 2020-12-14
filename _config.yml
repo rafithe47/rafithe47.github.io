@@ -71,13 +71,13 @@ content:
         quote: >
           Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         description: | # this will include new lines to allow paragraphs
-          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines 
+          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. Beside my course work I was actively involve with various voluntary services.
 
-          I worked as a voluntary **ACM instructor while doing undergrad** at my university
- 
-          I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*
+# I worked as a voluntary **ACM instructor while doing undergrad** at my university
 
-          I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university
+# I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*
+
+# I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university
 
 
   - title: Research Background # Title for the section
@@ -185,6 +185,14 @@ content:
           - Involved in Back End coding to manage dynamic pages using the CodeIgnitor framework
           - According to client requirements redesigned PHP Scripts, MySQL queries, HTML, CSS
 
+  - title: Voluntary University Services # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **ACM Programming Instructor:** Conducted workshops on problem-solving especially using C, C++, and Java with dedicated sessions on Data Structure and Algorithms.
+      - **Public Relation Officer and Vice-President:** I spent a lot of my free time as a committee member of the Leading University Computer Club (LUCC) taking on roles such as Public Relation Officer and Vice-President.
+      - **Security Assurance Agent:** I also served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon.
+
+
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
@@ -199,7 +207,14 @@ content:
       - **OS Environments:** OS X, Linux, Windows
       - **Others:** Maven, Docker, Rancher, Algorithms, Database Design, System Analysis
 
-  
+      - **Web Technologies:** AJAX, HTML5, CSS3, JSON
+
+
+- title: Relevant Coursework # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Programming Languages, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
+
 
   # - title: A Little More About Me
   #   layout: text
