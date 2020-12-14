@@ -209,11 +209,10 @@ content:
 
       - **Web Technologies:** AJAX, HTML5, CSS3, JSON
 
-
   - title: Relevant Coursework # Title for the section
-      layout: text # Type of content section (list/text)
-      content: |
-        - Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Programming Languages, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
+    layout: text # Type of content section (list/text)
+    content: |
+      - Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Programming Languages, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
 
 
   # - title: A Little More About Me
