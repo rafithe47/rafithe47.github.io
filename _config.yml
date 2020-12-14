@@ -71,7 +71,9 @@ content:
         quote: >
           Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         description: | # this will include new lines to allow paragraphs
-          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. Besides my course work, I was actively involved with various voluntary services.
+          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. 
+
+          Besides my course work, I was actively involved with various voluntary services.
 
 # I worked as a voluntary **ACM instructor while doing undergrad** at my university
 
@@ -193,6 +195,12 @@ content:
       - **Security Assurance Agent:** I also served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon.
 
 
+  - title: Relevant Coursework # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Programming Languages, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
+
+
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
@@ -209,10 +217,7 @@ content:
 
       - **Web Technologies:** AJAX, HTML5, CSS3, JSON
 
-  - title: Relevant Coursework # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      - Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Programming Languages, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
+  
 
 
   # - title: A Little More About Me
