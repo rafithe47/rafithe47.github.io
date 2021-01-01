@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ashraful Islam Rafi
+name: Ashraful Islam
 title: Software Engineer (Research and Development)
 email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
@@ -46,12 +46,13 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi and I'm a result-oriented software engineering professional, for the last 3+ years I have been working as a Software Engineer in the R&D section of a research-based organization. Prior to that, I was working in the industry taking on roles such as Programmer, Senior Software Engineer and Software Developer
+# Starts from here
+# about_profile_image: images/profile.jpg
+# about_content: | # this will include new lines to allow paragraphs  
+#   Hi, my name's Rafi and I'm a result-oriented software engineering professional, for the last 3+ years I have been working as a Software Engineer in the R&D section of a research-based organization. Prior to that, I was working in the industry taking on roles such as Programmer, Senior Software Engineer and Software Developer
 
-  <br/>
-  I am most skilled in: <mark>Developing Software</mark> and <mark>Eating Pizza</mark>
+#   <br/>
+#   I am most skilled in: <mark>Developing Software</mark> and <mark>Eating Pizza</mark>
 
 
 content:
