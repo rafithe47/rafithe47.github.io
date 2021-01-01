@@ -143,7 +143,7 @@ content:
           - Modify, correct, and improve the overall performance of the University Management System (UMS)
           - Developed “Result Prediction Tool” using Ajax, jQuery, JavaScript, MySql, Bootstrap3
           - Developed “Online Admission System” using PHP, MySql, jQuery, Ajax, Bootstrap3
-          - Coordinated and Monitored vendor company on developing HRMS Software as per the SRS
+          - Coordinated and Monitored vendor company on developing Human Resources Management System (HRMS) Software as per the Software Requirements Specification (SRS)
           - Establish, build, and manage relationships with corporate partners
 
       - layout: left
@@ -157,9 +157,8 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Developed Annual "Local Health Bulletin - 2015" System for Government of Bangladesh under the Ministry Of Health and Family Welfare (MOHFW) as a vendor company
-          - Developed "Photo Archiver System" for Government of Bangladesh under the Ministry Of Health and Family Welfare (MOHFW) as a vendor company Using CI, Ajax, MySql, jQuery, JSON, etc.
-          
+          - Developed Annual "Local Health Bulletin - 2015" and "Photo Archiver" System for Government of Bangladesh under the Ministry Of Health and Family Welfare (MOHFW) as a vendor company using CI, Ajax, MySql, jQuery, JSON, etc.
+
           - Used Bootstrap Framework for cross-platform compatibility
 
       - layout: left
@@ -173,9 +172,9 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Designed and Developed Customized Web-Based Software for different Businesses
-          - Involved in Back End coding to manage dynamic pages using the CodeIgnitor framework
-          - According to client requirements redesigned PHP Scripts, MySQL queries, HTML, CSS
+          - Designed and Developed customized web-based shop management software for different businesses
+          - Involved in back-end coding to manage dynamic pages using the CodeIgnitor framework
+          
 
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
@@ -189,8 +188,7 @@ content:
       - **CMS:** WordPress
       - **Software Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
       - **OS Environments:** OS X, Linux, Windows
-      - **Others:** Maven, Docker, Rancher, Algorithms, Database Design, System Analysis
-      - **Web Technologies:** AJAX, HTML5, CSS3, JSON
+      - **Others:** Docker, Maven, Rancher, Algorithms, Database Design, System Analysis
 
 
 
@@ -198,25 +196,25 @@ content:
   - title: Relevant Coursework # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Programming Languages, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
+      - Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Structure Programming C, Object Oriented Programming - C++, Java Programming, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
 
 
 
   - title: Programming Background # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Programming Contest Participation:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
+      - **Contest:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
       - Solved over 400 problems from different online judges
-      - Participated regularly in Online Programming Contests hosted by various online judges
+      - Participated regularly in online programming contests hosted by online judges such as LightOJ, UVa Online Judge, etc.
 
 
 
   - title: Voluntary University Services # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **ACM Programming Instructor:** Conducted workshops on problem-solving especially using C, C++, and Java with dedicated sessions on Data Structure and Algorithms.
-      - **Public Relation Officer and Vice-President:** I spent a lot of my free time as a committee member of the Leading University Computer Club (LUCC) taking on roles such as Public Relation Officer and Vice-President.
-      - **Security Assurance Agent:** I also served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon.
+      - **ACM Programming Instructor:** Conducted workshops on problem-solving especially using C, C++, and Java with dedicated sessions on Data Structure and Algorithms
+      - **Public Relation Officer and Vice-President:** Spent a lot of my time as a committee member of the Leading University Computer Club (LUCC) taking on roles such as Public Relation Officer and Vice-President
+      - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon.
 
 
   - title: Conference Participation # Title for the section
@@ -242,7 +240,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 references_title: Email - ashrafulrafi@gmail.com, Mobile - (88) 01722293046
 
 # Build settings
