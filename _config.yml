@@ -139,11 +139,11 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Modify, correct, and improve the overall performance of the University Management System(UMS) software
+          - Served more than three months as In-Charge of the Information Technology (IT) department
+          - Modify, correct, and improve the overall performance of the University Management System (UMS)
+          - Developed “Result Prediction Tool” using Ajax, jQuery, JavaScript, MySql, Bootstrap3
           - Developed “Online Admission System” using PHP, MySql, jQuery, Ajax, Bootstrap3
           - Coordinated and Monitored vendor company on developing HRMS Software as per the SRS
-          - Developed SMS Module which automatically sends last semester's results to parents
-          - Wrote & Modified complicated MySql Queries to enhance project performance
           - Establish, build, and manage relationships with corporate partners
 
       - layout: left
