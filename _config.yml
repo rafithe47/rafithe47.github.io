@@ -222,7 +222,7 @@ content:
       - ICBSLP 2018: International Conference on Bangla Speech and Language Processing
   
 
-    - title: test score information # Title for the section
+  - title: Test Score Information # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       - **GRE: Graduate Record Examinations General Test:** 304 (Quantitative-159, Verbal-145, AWA-3.0)
@@ -244,7 +244,7 @@ content:
 
 # Footer
 footer_show_references: false
-references_title: Thank to (modern-resume-theme)
+references_title: Thanks to (modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
