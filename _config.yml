@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ashraful Islam Rafi
-title: Software Engineer
+title: Software Engineer (Research and Development)
 email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -108,7 +108,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PIPILIKA - BANGLA SEARCH ENGINE
+        title: BANGLA SEARCH ENGINE (PIPILIKA)
         link: www.pipilika.com
         # link_text: Search Engine Pipilika 
         sub_title: Software Engineer
@@ -225,8 +225,8 @@ content:
   - title: Test Score Information # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **GRE: Graduate Record Examinations General Test:** 304 (Quantitative-159, Verbal-145, AWA-3.0)
-      - **IELTS: International English Language Testing System:** 7.0 (Listening-7.0, Reading-6.0, Writing-6.0, Speaking-8.0)
+      - **GRE: Graduate Record Examinations General Test:** Overall: 304, (Quantitative-159, Verbal-145, AWA-3.0)
+      - **IELTS: International English Language Testing System:** Overall: 7.0, (Listening-7.0, Reading-6.0, Writing-6.0, Speaking-8.0)
   
 
 
@@ -243,7 +243,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 references_title: Thanks to (modern-resume-theme)
 
 # Build settings
