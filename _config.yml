@@ -47,14 +47,11 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | # this will include new lines to allow paragraphs  
   Hi, my name's Rafi and I'm a result-oriented software engineering professional, for the last 3+ years I have been working as a Software Engineer in the R&D section of a research-based organization. Prior to that, I was working in the industry taking on roles such as Programmer, Software Engineer, Software Developer, etc.
 
   <br/>
   I am most skilled in: <mark>Developing Software</mark> and <mark>Eating Pizza</mark>
-
-
-
 
 
 content:
@@ -73,6 +70,10 @@ content:
           During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. 
 
           Besides my course work, I was actively involved with various voluntary services.
+
+        content: |
+          - **Research Experience:** Working in a research-based organization for the last 3 years
+          - **Research interests:** Data Science, ML, Software Engineering, Programming Languages, AI, Bioinformatics, Cyb
 
 # I worked as a voluntary **ACM instructor while doing undergrad** at my university
 
