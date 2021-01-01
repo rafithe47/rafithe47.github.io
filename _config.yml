@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi and I'm a result-oriented software engineering professional, for the last 3+ years I have been working as a Software Engineer in the R&D section of a research-based organization. Prior to that, I was working in the industry taking on roles such as Programmer, Software Engineer, Software Developer, etc.
+  Hi, my name's Rafi and I'm a result-oriented software engineering professional, for the last 3+ years I have been working as a Software Engineer in the R&D section of a research-based organization. Prior to that, I was working in the industry taking on roles such as Programmer, Senior Software Engineer and Software Developer
 
   <br/>
   I am most skilled in: <mark>Developing Software</mark> and <mark>Eating Pizza</mark>
@@ -104,7 +104,7 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Professional Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
