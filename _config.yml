@@ -80,12 +80,10 @@ content:
 # I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university
 
 
-  - title: Research Background # Title for the section
+  - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Research Experience:** Working in a research-based organization for the last 3 years
-      - **Research interests:** Data Science, ML, Software Engineering, Programming Languages, AI, Bioinformatics, Cyber Security
-
+      - Software Engineering, Machine Learning, Data Science, Natural Language Processing, Cyber Security
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
