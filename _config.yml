@@ -244,7 +244,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Thanks to (modern-resume-theme)
+# references_title: Thanks to (modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
