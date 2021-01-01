@@ -190,8 +190,6 @@ content:
       - **OS Environments:** OS X, Linux, Windows
       - **Others:** Docker, Maven, Rancher, Algorithms, Database Design, System Analysis
 
-
-
   
   - title: Relevant Coursework # Title for the section
     layout: text # Type of content section (list/text)
@@ -203,7 +201,7 @@ content:
   - title: Programming Background # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Contest:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
+      - **Contest Participation:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
       - Solved over 400 problems from different online judges
       - Participated regularly in online programming contests hosted by online judges such as LightOJ, UVa Online Judge, etc.
 
@@ -214,7 +212,7 @@ content:
     content: |
       - **ACM Programming Instructor:** Conducted workshops on problem-solving especially using C, C++, and Java with dedicated sessions on Data Structure and Algorithms
       - **Public Relation Officer and Vice-President:** Spent a lot of my time as a committee member of the Leading University Computer Club (LUCC) taking on roles such as Public Relation Officer and Vice-President
-      - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon.
+      - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon
 
 
   - title: Conference Participation # Title for the section
@@ -224,6 +222,11 @@ content:
       - ICBSLP 2018: International Conference on Bangla Speech and Language Processing
   
 
+    - title: test score information # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **GRE: Graduate Record Examinations General Test:** 304 (Quantitative-159, Verbal-145, AWA-3.0)
+      - **IELTS: International English Language Testing System:** 7.0 (Listening-7.0, Reading-6.0, Writing-6.0, Speaking-8.0)
   
 
 
@@ -240,8 +243,8 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
-references_title: Email - ashrafulrafi@gmail.com, Mobile - (88) 01722293046
+footer_show_references: false
+references_title: Thank to (modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
