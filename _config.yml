@@ -81,10 +81,6 @@ content:
           **Supervisor:** Rumel M. S. Rahman Pir, Associate Professor, Department  of Computer Science & Engineering (CSE) and Head, Department  of Electrical & Electronic Engineering (EEE)
 
 
-
-
-
-
 # I worked as a voluntary **ACM instructor while doing undergrad** at my university
 
 # I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*
@@ -95,7 +91,7 @@ content:
   - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Software Engineering, Machine Learning, Data Science, Natural Language Processing, Cyber Security
+      - Machine Learning, Information Retrieval, Data Science, Natural Language Processing, Cyber Security
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
