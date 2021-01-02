@@ -72,7 +72,8 @@ content:
 
           <br/> 
           **Thesis/Project Title:** System to Secure Web Authentication: using cache, cookie, and session <br/>
-          **Supervisor:** Rumel M. S. Rahman Pir, Associate Professor (CSE) and Head, Dept. of EEE 
+          **Supervisor:** Rumel M. S. Rahman Pir, Associate Professor, Department  of Computer Science & Engineering (CSE) and Head, Department  of Electrical & Electronic Engineering (EEE)
+
 
 
 
@@ -162,7 +163,7 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Developed Annual "Local Health Bulletin - 2015" and "Photo Archiver" System for Government of Bangladesh under the Ministry Of Health and Family Welfare (MOHFW) as a vendor company using CI, Ajax, MySql, jQuery, JSON, etc.
+          - Worked on the development of annual "Local Health Bulletin - 2015" report and developed "Photo Archiver System" for Government of Bangladesh under the Ministry Of Health and Family Welfare (MOHFW) as a vendor company using CI, Ajax, MySql, jQuery, JSON, etc.
 
           - Used Bootstrap Framework for cross-platform compatibility
 
