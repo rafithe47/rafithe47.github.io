@@ -72,7 +72,8 @@ content:
 
           <br/> 
           **Thesis/Project Title:** System to Secure Web Authentication: using cache, cookie, and session <br/>
-          **Supervisor:** Rumel M. S. Rahman Pir, Associate Professor (CSE) and Head, Dept. of EEE [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+          **Supervisor:** Rumel M. S. Rahman Pir, Associate Professor (CSE) and Head, Dept. of EEE 
+
 
 
 
@@ -247,8 +248,8 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
-references_title: Thanks to (modern-resume-theme)
+footer_show_references: true
+references_title: Thanks to [Modern-Resume-Theme](https://github.com/sproogen/modern-resume-theme){:target="_blank" rel="noopener"}
 
 # Build settings
 remote_theme: sproogen/resume-theme
