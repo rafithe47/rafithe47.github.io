@@ -20,7 +20,7 @@ github_username:  rafithe47
 twitter_username: rafithe47
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: rafithe47
+# facebook_username: rafithe47
 # flickr_username: jekyll
 # instagram_username: rafithe47
 # xing_username: jekyll
@@ -34,6 +34,12 @@ additional_links:
 - title: GitLab Link
   icon: fab fa-gitlab
   url: https://gitlab.com/rafithe47
+
+- title: Curriculum Vitae 
+  icon: far fa-file-pdf
+  url: https://github.com/rafithe47/rafithe47.github.io/blob/main/Ashraful-Islam-Curriculum-Vitae.pdf
+
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
