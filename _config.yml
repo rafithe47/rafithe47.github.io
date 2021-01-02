@@ -74,7 +74,7 @@ content:
         # quote: >
         #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         description: | # this will include new lines to allow paragraphs
-          During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. I was actively involved with various voluntary services as well.
+          During my time at Leading University, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. I was actively involved with various voluntary services as well.
 
           <br/> 
           **Thesis/Project Title:** System to Secure Web Authentication: using cache, cookie, and session <br/>
@@ -218,7 +218,7 @@ content:
   - title: Voluntary University Services # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **ACM Programming Instructor:** Conducted workshops on problem-solving especially using C, C++, and Java with dedicated sessions on Data Structure and Algorithms
+      - **Competitive Programming Instructor:** Conducted workshops on problem-solving especially using C and C++ with dedicated sessions on Data Structure and Algorithms
       - **Public Relation Officer and Vice-President:** Spent a lot of my time as a committee member of the Leading University Computer Club (LUCC) taking on roles such as Public Relation Officer and Vice-President
       - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon
 
