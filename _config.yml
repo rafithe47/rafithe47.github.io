@@ -163,7 +163,7 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Worked on the development of annual "Local Health Bulletin - 2015" report and developed "Photo Archiver System" for Government of Bangladesh under the Ministry Of Health and Family Welfare (MOHFW) as a vendor company using CI, Ajax, MySql, jQuery, JSON, etc.
+          - Developed the annual "Local Health Bulletin - 2015" report and "Photo Archiver System" for the Government of Bangladesh under the Ministry Of Health and Family Welfare as a vendor company
 
           - Used Bootstrap Framework for cross-platform compatibility
 
