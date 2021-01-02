@@ -249,7 +249,12 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Thanks to [Modern-Resume-Theme](https://github.com/sproogen/modern-resume-theme){:target="_blank" rel="noopener"}
+references_title: Thanks to [Modern-Resume-Theme]
+
+
+# to link external resource, to open in a new tab
+# [link tilte](link url){:target="_blank" rel="noopener"}
+# [Modern-Resume-Theme](https://github.com/sproogen/modern-resume-theme){:target="_blank" rel="noopener"}
 
 # Build settings
 remote_theme: sproogen/resume-theme
