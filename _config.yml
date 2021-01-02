@@ -65,8 +65,8 @@ content:
         # link_text: Leading University, Sylhet
         caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
         sub_title: B. Sc. Computer Science and Engineering
-        quote: >
-          Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
+        # quote: >
+        #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         description: | # this will include new lines to allow paragraphs
           During my time at LU, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. I was actively involved with various voluntary services as well.
 
@@ -117,7 +117,7 @@ content:
         title: BANGLA SEARCH ENGINE (PIPILIKA)
         link: www.pipilika.com
         # link_text: Search Engine Pipilika 
-        sub_title: Software Engineer
+        sub_title: Software Engineer (R&D)
         caption: August 2017 - Present
         
         # quote: >
@@ -171,7 +171,7 @@ content:
         title: IT LAB SOLUTIONS LTD.
         link: www.itlabsolutions.com
         # link_text: IT Lab Solutions Ltd.
-        sub_title: Software Developer(While Doing Undergraduate)
+        sub_title: Software Developer (While Doing Undergraduate)
         caption: February 2012 - January 2014
         
         # quote: >
