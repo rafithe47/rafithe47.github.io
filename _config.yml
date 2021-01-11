@@ -91,7 +91,7 @@ content:
   - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Machine Learning, Information Retrieval, Software Engineering, Data Science, Natural Language Processing, Cyber Security
+      - Software Engineering, Machine Learning, Natural Language Processing, Cyber Security, Information Retrieval, Data Science
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
