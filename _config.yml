@@ -91,7 +91,7 @@ content:
   - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Machine Learning, Information Retrieval, Data Science, Natural Language Processing, Cyber Security
+      - Machine Learning, Information Retrieval, Software Engineering, Data Science, Natural Language Processing, Cyber Security
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -147,11 +147,11 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Served more than three months as In-Charge of the Information Technology (IT) department
+          - Served more than three months as **In-Charge** of the Information Technology (IT) department
+          - Developed **Result Prediction Tool** using Ajax, jQuery, JavaScript, MySql, Bootstrap3
+          - Developed **Online Admission System** using PHP, MySql, jQuery, Ajax, Bootstrap3
           - Modify, correct, and improve the overall performance of the University Management System (UMS)
-          - Developed “Result Prediction Tool” using Ajax, jQuery, JavaScript, MySql, Bootstrap3
-          - Developed “Online Admission System” using PHP, MySql, jQuery, Ajax, Bootstrap3
-          - Coordinated and Monitored vendor company on developing Human Resources Management System (HRMS) Software as per the Software Requirements Specification (SRS)
+          - Coordinated and Monitored vendor company on developing **Human Resources Management System (HRMS)** Software as per the Software Requirements Specification (SRS)
           - Establish, build, and manage relationships with corporate partners
 
       - layout: left
@@ -165,8 +165,7 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Developed the annual "Local Health Bulletin - 2015" report and "Photo Archiver System" for the Government of Bangladesh under the Ministry Of Health and Family Welfare as a vendor company
-
+          - Developed the annual **Local Health Bulletin - 2015** report and **Photo Archiver System** for the Government of Bangladesh under the Ministry Of Health and Family Welfare as a vendor company
           - Used Bootstrap Framework for cross-platform compatibility
 
       - layout: left
@@ -180,7 +179,7 @@ content:
         #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
-          - Designed and Developed customized web-based shop management software for different businesses
+          - Designed and Developed customized web-based **Shop Management** software for different businesses
           - Involved in back-end coding to manage dynamic pages using the CodeIgnitor framework
           
 
