@@ -91,7 +91,7 @@ content:
   - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Software Engineering, Machine Learning, Natural Language Processing, Cyber Security, Information Retrieval, Data Science
+      - Software Engineering, Machine Learning, Cybersecurity, Natural Language Processing, Information Retrieval, Data Science, Programming Languages, and Algorithms
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -195,7 +195,7 @@ content:
       - **CMS:** WordPress
       - **Software Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
       - **OS Environments:** OS X, Linux, Windows
-      - **Others:** Docker, Maven, Rancher, Algorithms, Database Design, System Analysis
+      - **Others:** Docker, Maven, Rancher, Algorithms, System Analysis and Design
 
   
   - title: Relevant Coursework # Title for the section
