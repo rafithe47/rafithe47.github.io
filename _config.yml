@@ -186,7 +186,7 @@ content:
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Programming Languages:** Java, PHP, C, C++, JavaScript
+      - **Programming Languages:** Java, PHP, Python, C, C++, JavaScript
       - **Databases:** MySQL, Apache Solr, MongoDB
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, jQuery, Bootstrap3
       - **Web Technologies:** AJAX, HTML5, CSS3, JSON
