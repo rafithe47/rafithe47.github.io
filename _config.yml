@@ -233,8 +233,8 @@ content:
   - title: Test Score Information # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **GRE: Graduate Record Examinations General Test:** Overall: 304, (Quantitative-159, Verbal-145, AWA-3.0)
-      - **IELTS: International English Language Testing System:** Overall: 7.0, (Listening-7.0, Reading-6.0, Writing-6.0, Speaking-8.0)
+      - **Graduate Record Examinations General Test (GRE):** Overall: 304, (Quantitative-159, Verbal-145, AWA-3.0)
+      - **International English Language Testing System (IELTS):** Overall: 7.0, (Listening-7.0, Reading-6.0, Writing-6.0, Speaking-8.0)
   
 
 
