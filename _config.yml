@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ashraful Islam
+name: Ashraful Islam Rafi
 title: Software Engineer at Bangla Search Engine (Pipilika)
 email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
@@ -69,8 +69,8 @@ content:
         title: LEADING UNIVERSITY
         link: www.lus.ac.bd
         # link_text: Leading University, Sylhet
-        caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
-        sub_title: B. Sc. Computer Science and Engineering
+        # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
+        sub_title: B. Sc. in Computer Science and Engineering
         # quote: >
         #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         description: | # this will include new lines to allow paragraphs
@@ -92,7 +92,7 @@ content:
   - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Software Engineering, Machine Learning, Cybersecurity, Information Retrieval, Natural Language Processing, Data Science, Programming Languages, and Algorithms
+      - Software Engineering, Programming Languages, and Algorithms, Machine Learning, Cybersecurity, Information Retrieval, Natural Language Processing, Data Science 
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -241,14 +241,17 @@ content:
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Rock climbing
+  #     Alongside my interests in software engineering and programming languages some of my other interests and hobbies are:
+  #     - Playing Cricket, Tennis
+  #     - Hiking
+  #     - Biking
+  #     - Watching movies
   #     - Gaming
   #     - Knitting
   #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  #     Look at this cool image  
-  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #    Look at this cool image  
+  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
