@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ashraful Islam Rafi
-title: Software Engineer at Bangla Search Engine (Pipilika)
+title: Former Software Engineer at Bangla Search Engine (Pipilika)
 email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -92,7 +92,7 @@ content:
   - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Software Engineering, Programming Languages, and Algorithms, Machine Learning, Cybersecurity, Information Retrieval, Natural Language Processing, Data Science 
+      - Software Engineering, Programming Languages, Algorithms, High Performance Computing, Machine Learning, Information Retrieval, Data Science and Cybersecurity 
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
